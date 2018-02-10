@@ -12,5 +12,5 @@ make
 ```
 
 ## references
-* https://pve.proxmox.com/wiki/Debian_Appliance_Builde
+* https://pve.proxmox.com/wiki/Debian_Appliance_Builder
 * https://pve.proxmox.com/wiki/Build_your_first_DAB_Appliance_Template
